@@ -1,0 +1,1 @@
+This is the GitHub Organization for EarliTec Diagnositcs. All rights reserved.

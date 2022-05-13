@@ -8,6 +8,7 @@
 - [ ] ✓ Configuration Management
 - [ ] 📦 Release
 - [ ] ⏩ Revert
+- [ ] 🏷 Other
 
 ## Description of Changes
 <!-- Add a brief description of the changes for the PR -->

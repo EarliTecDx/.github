@@ -5,17 +5,13 @@
 - [ ] 🧑‍💻 Code Refactor
 - [ ] ✅ Test
 - [ ] 🤖 Build/CI
+- [ ] ✓ Configuration Management
 - [ ] 📦 Release
 - [ ] ⏩ Revert
-
-<br>
-<br>
 
 ## Description of Changes
 <!-- Add a brief description of the changes for the PR -->
 
-<br>
-<br>
 
 ## Related Work Items,Issues, and Documents
 <!-- 
@@ -27,4 +23,4 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 For Grand Avenue Documents add a link to the document using the following format: [Document Name](Link to the document)
 -->
-- 
+

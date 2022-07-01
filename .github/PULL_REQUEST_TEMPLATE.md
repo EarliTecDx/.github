@@ -1,7 +1,7 @@
 ## :page_facing_up: Description of Changes
 _Add a description of the changes for the PR_
 
-## :link: Related Work Items,Issues, and Documents
+## :link: Related DevOps Work Items, GitHub Issues, and Grand Avenue Documents
 -
 
 ## :white_check_mark: Checklist

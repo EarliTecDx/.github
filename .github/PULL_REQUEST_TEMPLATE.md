@@ -1,21 +1,16 @@
-## What type of PR is this? (check all applicable)
-<!-- Select atleast one of the options below -->
-- [ ] 💡 Feature
-- [ ] 🐛 Bug Fix
-- [ ] 🧑‍💻 Code Refactor
-- [ ] ✅ Test
-- [ ] 🤖 Build/CI
-- [ ] ✓ Configuration Management
-- [ ] 📦 Release
-- [ ] ⏩ Revert
-- [ ] 🏷 Other
+## :page_facing_up: Description of Changes
+_Add a description of the changes for the PR_
 
-## Description of Changes
-<!-- Add a brief description of the changes for the PR -->
+## :link: Related DevOps Work Items, GitHub Issues, and Grand Avenue Documents
+-
+
+## :white_check_mark: Checklist
+- [ ] Add a label for the PR
 
 
-## Related Work Items,Issues, and Documents
+
 <!-- 
+JUST FOR REFERNCE WILL NOT SHOW IN PR BUT CAN BE REMOVED
 For Azure DevOps Work Items use this format: Fixes AB#123
 https://docs.microsoft.com/en-us/azure/devops/boards/github/link-to-from-github?view=azure-devops
 

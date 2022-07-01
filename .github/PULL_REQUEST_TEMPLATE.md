@@ -2,10 +2,6 @@
 _Add a description of the changes for the PR_
 
 ## :link: Related Work Items,Issues, and Documents
-_For Azure DevOps Work Items use this format: `Fixes AB#123`_
-_For GitHub Issues use this format link issue numbers: `Fixes #123_`
-_For Grand Avenue Documents add a link to the document using the following format: `[Document Name](Link to the document)`_
-
 -
 
 ## :white_check_mark: Checklist

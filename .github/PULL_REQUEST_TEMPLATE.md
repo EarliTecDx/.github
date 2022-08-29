@@ -1,12 +1,15 @@
-## :page_facing_up: Description of Changes
-_Add a description of the changes for the PR_
+## :page_facing_up: Summary of Changes
 
-## :link: Related DevOps Work Items, GitHub Issues, and Grand Avenue Documents
--
 
-## :white_check_mark: Checklist
-- [ ] Add a label for the PR
+## :link: Related Items: 
+- ### DevOps Work Items:
+  - None 
 
+- ### GitHub Issues:
+  -  None
+
+- ### Grand Avenue Documents
+  -  None
 
 
 <!-- 
@@ -19,4 +22,3 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 For Grand Avenue Documents add a link to the document using the following format: [Document Name](Link to the document)
 -->
-

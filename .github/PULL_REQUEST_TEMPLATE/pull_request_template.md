@@ -1,17 +1,18 @@
 ## :pencil: Description of Changes
+_Add a decription of the changes_
 
 
-## :books: If this is a design change, where are these changes documented?
+## :books: Where are these changes documented?
+_Add information of where the changes are documented ex. detailed design, work isntruction_
 
 
 ## :eyes: How can these changes be viewed/tested?
-
+_Add steps for how these changes can be viewed or tested_
 
 
 ## :ballot_box_with_check: PR Info Checklist
 - [ ] PR title begins with Clickup custom id ex. `RD-123`
 - [ ] PR label matches the Clickup work item type
-
 
 
 <!-- 

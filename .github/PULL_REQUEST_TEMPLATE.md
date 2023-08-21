@@ -9,8 +9,8 @@
 
 
 ## :ballot_box_with_check: PR Info Checklist
-[ ] PR title begins with Clickup custom id ex. `RD-123`
-[ ] PR label matches the Clickup work item type
+- [ ] PR title begins with Clickup custom id ex. `RD-123`
+- [ ] PR label matches the Clickup work item type
 
 
 

@@ -1,10 +1,10 @@
 ## :pencil: Description of Changes
-_Add a decription of the changes_
+_Add a description of the changes_
 
 
 ## :ballot_box_with_check: Pull Request Checklist
-- [ ] Title begins with Clickup custom id and title of work item ex. `RD-123 Clickup Work Item Title`
-- [ ] Label matches the Clickup work item type
+- [ ] Title begins with ClickUp custom id and title of work item ex. `RD-123 ClickUp Work Item Title`
+- [ ] Label matches the ClickUp work item type
 
 
 <!-- 

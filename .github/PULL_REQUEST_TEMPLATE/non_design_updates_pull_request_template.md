@@ -2,9 +2,9 @@
 _Add a decription of the changes_
 
 
-## :ballot_box_with_check: PR Info Checklist
-- [ ] PR title begins with Clickup custom id ex. `RD-123`
-- [ ] PR label matches the Clickup work item type
+## :ballot_box_with_check: Pull Request Checklist
+- [ ] Title begins with Clickup custom id and title of work item ex. `RD-123 Clickup Work Item Title`
+- [ ] Label matches the Clickup work item type
 
 
 <!-- 

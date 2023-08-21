@@ -1,17 +1,22 @@
-## :page_facing_up: Description of Changes
-_Add a description of the changes for the PR_
+## :pencil: Description of Changes
 
-## :link: Related DevOps Work Items, GitHub Issues, and Grand Avenue Documents
--
 
-## :white_check_mark: Checklist
-- [ ] Add a label for the PR
+## :books: If this is a design change, where are these changes documented?
+
+
+## :eyes: How can these changes be viewed/tested?
+
+
+
+## :ballot_box_with_check: PR Info Checklist
+[ ] PR title begins with Clickup custom id ex. `RD-123`
+[ ] PR label matches the Clickup work item type
 
 
 
 <!-- 
 JUST FOR REFERNCE WILL NOT SHOW IN PR BUT CAN BE REMOVED
-For Azure DevOps Work Items use this format: Fixes AB#123
+For ClickUp Work Items use this format: Fixes RD-123
 https://docs.microsoft.com/en-us/azure/devops/boards/github/link-to-from-github?view=azure-devops
 
 For GitHub Issues use this format link issue numbers: Fixes #123

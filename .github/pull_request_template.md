@@ -14,6 +14,14 @@ _Add steps for how these changes can be viewed or tested_
 - [ ] Title begins with ClickUp custom id and title of work item ex. `RD-123 ClickUp Work Item Title`
 - [ ] Label matches the ClickUp work item type
 
+## :checkered_flag: Approver Checklist
+_This list can be updated in the PR description itself or added to the review comment_
+- [ ] Title begins with ClickUp custom id and title of work item
+- [ ] Label matches the ClickUp work item type
+- [ ] Changes are scoped to one work item
+- [ ] Description of Changes adequately describes the changes
+- [ ] Changes have been documented as described
+- [ ] These changes have been viewed/tested according to the description
 
 <!-- 
 JUST FOR REFERNCE WILL NOT SHOW IN PR BUT CAN BE REMOVED

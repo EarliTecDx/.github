@@ -22,11 +22,11 @@ _This list can be updated in the PR description itself or added to the review co
 - [ ] Description of Changes adequately describes the changes
 - [ ] Changes have been documented as described
 
-## Verifcation Checklist (Developer/Verification Engineer)
+## :red_circle: Verifcation Checklist (Developer/Verification Engineer)
 - [ ] The testing methods/steps ensure the changes have been implemented and that the problem has been resolved (if applicable)
 - [ ] The changes have been to tested to ensure the issue has been resolved
 
-## Quality Checklist (Quality Engineer)
+## :white_check_mark: Quality Checklist (Quality Engineer)
 - [ ] The pull request is adequately documented
 
 <!-- 

@@ -11,7 +11,7 @@ _Add steps for how these changes can be viewed or tested_
 
 
 ## :ballot_box_with_check: Pull Request Checklist (Initiator)
-- [ ] Title begins with ClickUp custom id and title of work item ex. `RD-123 ClickUp Work Item Title`
+- [ ] Title begins with ClickUp custom id and title of work item ex. `RD-XXX ClickUp Work Item Title`
 - [ ] Label matches the ClickUp work item type
 
 ## :checkered_flag: Design Checklist (Developer)
@@ -29,14 +29,4 @@ _This list can be updated in the PR description itself or added to the review co
 ## :white_check_mark: Quality Checklist (Quality Engineer)
 - [ ] The pull request is adequately documented
 
-<!-- 
-JUST FOR REFERNCE WILL NOT SHOW IN PR BUT CAN BE REMOVED
-For ClickUp Work Items use this format: Fixes RD-123
-https://docs.microsoft.com/en-us/azure/devops/boards/github/link-to-from-github?view=azure-devops
-
-For GitHub Issues use this format link issue numbers: Fixes #123
-https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword
-
-For Grand Avenue Documents add a link to the document using the following format: [Document Name](Link to the document)
--->
 

@@ -13,6 +13,7 @@ _Add steps for how these changes can be tested or reviewed_
 ## :ballot_box_with_check: Pull Request Checklist (Initiator)
 - [ ] Title begins with ClickUp custom id and title of work item ex. `RD-XXX ClickUp Work Item Title`
 - [ ] Label matches the ClickUp work item type
+- [ ] Changes are adequately described in the change requests
 
 ## :red_circle: Design/Verification Checklist (Independent Developer)
 _This list can be updated in the PR description itself or added to the review comment_
@@ -20,6 +21,7 @@ _This list can be updated in the PR description itself or added to the review co
 - [ ] Label matches the ClickUp work item type
 - [ ] Changes are scoped to one work item
 - [ ] Description of Changes adequately describes the changes
+- [ ] Change request adequately describes the changes
 - [ ] Changes have been documented as described
 - [ ] How to test/review the changes has been adequately described
 - [ ] The changes have been confirmed to be implemented and the issue has been resolved (if applicable)
